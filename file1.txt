@@ -1,3 +1,4 @@
 hello world
 
 change1 - change for feature login
+change2 - to fix bug1 to check fastfoward 
