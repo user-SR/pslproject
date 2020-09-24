@@ -1,4 +1,5 @@
 hello world
 
-change1 - change for feature login
-change2 - to fix bug1 to check fastfoward 
+change 1 - change for feature login
+change 2 - to fix bug1 to check fastfoward 
+change 3 - to fix bug2 to check 3-way merging
